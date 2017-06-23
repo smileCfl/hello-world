@@ -1,2 +1,4 @@
 # hello-world
-test to create a new repository
+Hi,
+
+  This is the first time to use git, it's really great!
